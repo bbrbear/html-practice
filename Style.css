@@ -1,0 +1,22 @@
+*{
+   color: black;
+   font-family: 'Times New Roman', Times, serif; 
+}
+body{
+    width:1000px;
+}
+
+.left-content{
+    width: 490px;
+    margin-right: 10px;
+    float: left;
+}
+
+.right-content{
+    width: 490px;
+    float: right;
+}
+
+.title{
+    text-align: center;
+}
